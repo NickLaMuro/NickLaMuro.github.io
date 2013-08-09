@@ -1,0 +1,5 @@
+---
+permalink: vim/
+---
+
+curl https://raw.github.com/gist/1147370/vim.sh | sh
